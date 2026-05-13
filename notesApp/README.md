@@ -11,8 +11,10 @@ A clean, minimal, and fully responsive Notes application built with **React 19**
 ---
 
 ## 📸 Preview
+<img width="947" height="369" alt="image" src="https://github.com/user-attachments/assets/49c0d6e9-c9fa-48a9-adea-af1f8b999b04" />
+<img width="950" height="409" alt="image" src="https://github.com/user-attachments/assets/b2edfcf6-e302-4faa-983e-814cd04a568f" />
 
-![Notes App Preview](./src/assets/hero.png)
+
 
 ---
 
