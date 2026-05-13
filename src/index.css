@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.notes {
+  @apply bg-gray-800/60 backdrop-blur-sm border border-gray-700 rounded-2xl p-4 flex flex-col gap-2 shadow-lg transition-all duration-300 hover:border-blue-500/50 hover:shadow-blue-900/20;
+}
+
+.notes-title {
+  @apply text-white font-semibold text-base leading-snug truncate;
+}
+
+
+.notes-divider {
+  @apply border-gray-700 my-2;
+  
+}
+
+.notes-details {
+  @apply text-gray-400 text-sm leading-relaxed;
+}
